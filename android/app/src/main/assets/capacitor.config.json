@@ -1,0 +1,17 @@
+{
+	"appId": "com.imo.ancestralrhythm",
+	"appName": "IMỌ - Ancestral Rhythm",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+		"androidScheme": "https"
+	},
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 2000,
+			"backgroundColor": "#0F0E0B",
+			"showSpinner": false,
+			"androidSplashResourceName": "splash"
+		}
+	}
+}

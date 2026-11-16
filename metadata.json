@@ -1,0 +1,8 @@
+{
+  "name": "IMỌ - Ancestral Rhythm",
+  "description": "Educational guide to Yorùbá spiritual cosmology, sacred rhythm (Ọjọ́ Ayé), Odù Ifá wisdom corpus, dream interpretation (Àlá), and sacred Oríkì prayers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
